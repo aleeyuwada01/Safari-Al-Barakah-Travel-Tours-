@@ -1,0 +1,6 @@
+{
+  "name": "Safari Al-Barakah Travel & Tours",
+  "description": "Premium travel tours and visa reservation management platform for Safari Al-Barakah with client itineraries, package creation, and automated email confirmations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
